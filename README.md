@@ -1,6 +1,6 @@
 ### Hi there, I'm Felipe 👋😁
 
-## I'm a Developer!
+### I'm a Developer!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Master Flutter and Dart 😁
 - ⚡ Fun fact: I love to draw and play guitar
