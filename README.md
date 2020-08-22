@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe 👋😁
 
 ### I'm a Developer!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 (mostly Flutter)
 - 🥅 2020 Goals: Master Flutter and Dart 😁
 - ⚡ Fun fact: I love to draw and play guitar
 
@@ -31,6 +31,8 @@
 <br />
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfelipedev&layout=compact&hide_border=true)](https://github.com/wfelipedev/github-readme-stats)
 
 <img align="left" alt="Felipe's stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wfelipedev&show_icons=true&hide_border=true" />
 
