@@ -1,7 +1,4 @@
-### 
-<div style="vertical-align:middle;">
-  <h1>Hi there, I'm Felipe 👋😁</h1>
-</div>
+### <h1 align="center">Hi there, I'm Felipe 👋😁</h1>
 
 ### I'm a Developer!
 - 🌱 I’m currently learning everything 🤣 (mostly Flutter)
