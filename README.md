@@ -1,4 +1,6 @@
-### Hi there, I'm Felipe 👋😁
+### 
+
+<h1 style="text-align: center">Hi there, I'm Felipe 👋😁</h1>
 
 ### I'm a Developer!
 - 🌱 I’m currently learning everything 🤣 (mostly Flutter)
