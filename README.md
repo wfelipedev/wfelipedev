@@ -1,9 +1,9 @@
 ### <h1 align="center">Hi there, I'm Felipe 👋😁</h1>
   
 
-### I'm a Developer!
-- 🌱 I’m currently learning everything 🤣 (mostly Flutter)
-- ⚡ Fun fact: I love to draw and play guitar
+### I'm a Brazillian Developer!
+- 🌱 My focus as a developer is the back end development
+- 🌱 My professional objective is to upgrade my knowledge in programming.
 
 <br />
 
@@ -28,18 +28,21 @@
 
 #### Mobile
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 
 <br />
 
 #### Back-End
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://avatars1.githubusercontent.com/u/28507035?s=200&v=4" />
-<img align="left" alt="Git" width="26px" src="https://avatars0.githubusercontent.com/u/20165699?s=200&v=4" />
+<img align="left" alt="Nest" width="26px" src="https://avatars1.githubusercontent.com/u/28507035?s=200&v=4" />
+<img align="left" alt="TypeORM" width="26px" src="https://avatars0.githubusercontent.com/u/20165699?s=200&v=4" />
+<img align="left" alt="Express" width="26px" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" />
+<!---
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+ <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" /> 
+ --->
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" />
+<img align="left" alt="Mongo" width="26px" src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" />
 
 
 <br />
